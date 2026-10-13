@@ -68,6 +68,16 @@ A few patterns stood out during the analysis:
 
 These findings are useful because they show the value of combining data exploration with predictive modeling. Rather than treating the model as a black box, the project highlights the real-world drivers behind the risk signal.
 
+## Visual Highlights
+
+### Correlation Heatmap
+
+![Stroke correlation heatmap](./images/stroke-correlation-heatmap.svg)
+
+### Age Distribution and Stroke Risk
+
+![Age distribution and stroke risk](./images/stroke-age-risk.svg)
+
 ## Closing
 
 This project was valuable because it combined technical work with a practical healthcare use case. It strengthened my ability to clean data, build classification models, and communicate findings in a way that connects machine learning to real decisions. I see this as a strong example of how data science can support early risk detection and more informed, preventative care.
