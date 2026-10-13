@@ -1,6 +1,6 @@
 # Stroke Prediction Project
 
-This project was a personal dive into a real healthcare problem: using patient data to identify factors associated with stroke risk and testing whether a machine learning model could support early intervention. I wanted to move beyond just building a model and instead think through the data story behind it — what patterns matter, what features carry risk, and how a predictive approach could be useful in a clinical or business setting.
+This project was a personal dive into a real healthcare problem: using patient data to identify factors associated with stroke risk and testing whether a machine learning model could support early identification of at-risk patients. The goal was not only to build a model, but to understand which features matter most and how a predictive workflow could translate into actionable insights.
 
 ## Skills Demonstrated
 
@@ -14,9 +14,9 @@ This project was a personal dive into a real healthcare problem: using patient d
 
 ## Project Overview
 
-The goal of this project was to build a predictive model that estimates whether a patient is likely to experience a stroke based on demographic and health-related variables. The dataset includes information such as age, gender, work type, smoking status, blood glucose levels, BMI, and medical history indicators like hypertension and heart disease.
+The goal of this project was to build a predictive model that estimates whether a patient is likely to experience a stroke based on demographic and health-related variables. The dataset includes information on age, gender, lifestyle, medical history, and health metrics.
 
-I approached the project as a full data science workflow: understanding the data, cleaning inconsistencies, exploring relationships, preparing features, and comparing model performance. The notebook walks through how the data was transformed and how machine learning was used to classify risk.
+I approached the project as a full data science workflow: understanding the data, cleaning inconsistencies, exploring relationships, preparing features, and comparing model performance. The notebook demonstrates the practical steps involved in creating a reliable classification model with a healthcare lens.
 
 ## Business Questions
 
@@ -40,7 +40,7 @@ This project was designed to answer questions that matter in both healthcare and
 
 ## Dataset
 
-The project uses the publicly available stroke prediction dataset from Kaggle, containing patient records with both clinical and lifestyle attributes. It includes a mix of numerical and categorical variables, with the target variable indicating whether a stroke occurred.
+The project uses the publicly available stroke prediction dataset from Kaggle, containing patient records with both clinical and lifestyle attributes. It includes a mix of numerical and categorical variables, making it a good example of a real-world predictive modeling challenge.
 
 Key features in the dataset include:
 
@@ -66,15 +66,18 @@ A few patterns stood out during the analysis:
 - The dataset is imbalanced, which makes model evaluation more nuanced and reinforces the importance of thoughtful validation.
 - Simple but well-structured preprocessing can make a meaningful difference in model quality and interpretability.
 
-These findings are useful because they show the value of combining data exploration with predictive modeling. Rather than treating the model as a black box, the project highlights the real-world drivers behind the risk signal.
+These findings are useful because they show the value of combining data exploration with predictive modeling. Rather than treating the model as a black box, the project highlights the real-world drivers behind the prediction task and emphasizes the importance of careful, explainable analysis.
 
 ## Visual Highlights
 
-<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/6ea4fc30-e579-42fa-8369-44ea95caa64d" />
+### Key Feature Relationships in Stroke Risk
 
-<img width="990" height="610" alt="image" src="https://github.com/user-attachments/assets/31fe65bc-0dd8-46f1-811c-71a493a58a38" />
+<img width="700" height="420" alt="Feature relationships in stroke risk" src="https://github.com/user-attachments/assets/6ea4fc30-e579-42fa-8369-44ea95caa64d" />
+
+### Model Evaluation and Performance Overview
+
+<img width="700" height="430" alt="Model evaluation and performance overview" src="https://github.com/user-attachments/assets/31fe65bc-0dd8-46f1-871c-71a493a58a38" />
 
 ## Closing
 
-This project was valuable because it combined technical work with a practical healthcare use case. It strengthened my ability to clean data, build classification models, and communicate findings in a way that connects machine learning to real decisions. I see this as a strong example of how data science can support early risk detection and more informed, preventative care.
-
+This project was valuable because it combined technical work with a practical healthcare use case. It strengthened my ability to clean data, build classification models, and communicate findings in an understandable, decision-focused way.
