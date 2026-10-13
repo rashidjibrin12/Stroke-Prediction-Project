@@ -76,7 +76,8 @@ These findings are useful because they show the value of combining data explorat
 
 ### Optimized Random Forest
 
-<img width="650" height="380" alt="Model performance comparison" src="https://github.com/user-attachments/assets/31fe65bc-0dd8-46f1-871c-71a493a58a38" />
+<img width="1054" height="605" alt="{E3B2530E-92CB-45F6-9680-2BFE81B37E5A}" src="https://github.com/user-attachments/assets/27a3e745-e14c-4916-bbe5-069e4c57c4d2" />
+
 
 ## Closing
 
