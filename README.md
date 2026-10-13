@@ -70,11 +70,11 @@ These findings are useful because they show the value of combining data explorat
 
 ## Visual Highlights
 
-### Key Feature Relationships in Stroke Risk
+### Model Performance Comparison
 
 <img width="700" height="420" alt="Feature relationships in stroke risk" src="https://github.com/user-attachments/assets/6ea4fc30-e579-42fa-8369-44ea95caa64d" />
 
-### Model Performance Comparison
+### Optimized Random Forest
 
 <img width="650" height="380" alt="Model performance comparison" src="https://github.com/user-attachments/assets/31fe65bc-0dd8-46f1-871c-71a493a58a38" />
 
