@@ -70,13 +70,9 @@ These findings are useful because they show the value of combining data explorat
 
 ## Visual Highlights
 
-### Correlation Heatmap
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/6ea4fc30-e579-42fa-8369-44ea95caa64d" />
 
-![Stroke correlation heatmap](./images/stroke-correlation-heatmap.svg)
-
-### Age Distribution and Stroke Risk
-
-![Age distribution and stroke risk](./images/stroke-age-risk.svg)
+<img width="990" height="610" alt="image" src="https://github.com/user-attachments/assets/31fe65bc-0dd8-46f1-811c-71a493a58a38" />
 
 ## Closing
 
