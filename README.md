@@ -76,7 +76,7 @@ These findings are useful because they show the value of combining data explorat
 
 ### Model Evaluation and Performance Overview
 
-<img width="700" height="430" alt="Model evaluation and performance overview" src="https://github.com/user-attachments/assets/31fe65bc-0dd8-46f1-871c-71a493a58a38" />
+<img width="918" height="606" alt="{A30FE955-6D64-4B13-89B8-556AC18EC5D4}" src="https://github.com/user-attachments/assets/81a63d92-b3e1-4960-877f-955fb4474761" />
 
 ## Closing
 
