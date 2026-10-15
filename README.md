@@ -35,7 +35,7 @@ This project was designed to answer questions that matter in both healthcare and
 - NumPy
 - Matplotlib
 - Seaborn
-- scikit-learn
+- Scikit-learn
 - Machine learning classification workflows
 
 ## Dataset
